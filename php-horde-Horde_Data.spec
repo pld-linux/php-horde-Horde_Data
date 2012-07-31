@@ -5,12 +5,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Data API
 Name:		php-horde-Horde_Data
-Version:	1.0.6
+Version:	1.0.7
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	a5e3084496f384807bf3064748cf280a
+# Source0-md5:	2bf9d80dab68e81c8e21f5c2240847d6
 URL:		https://github.com/horde/horde/tree/master/framework/Data/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
