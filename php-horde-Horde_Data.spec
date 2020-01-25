@@ -2,7 +2,6 @@
 # - system locale dir
 %define		status		stable
 %define		pearname	Horde_Data
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Data API
 Name:		php-horde-Horde_Data
 Version:	1.0.7
